@@ -1,2 +1,2 @@
 # Thermostat
-C project that uses a circuit connected to an Arduino to act as a thermostat
+Final project coded in C for Introduction to Embedded Systems class that uses a circuit connected to an Arduino to act as a thermostat. Temperature sensor on the breadboard takes the temperature, buttons and rotary encoder are used to adjust the high and low temperature thresholds. If the temperature (displayed in fahrenheit) exceeds the high temperature threshold, the LED light indicating AC is turned on, and if the temperature goes below the low temperature threshold the LED light indicating heater is turned on.
